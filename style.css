@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color:rgb(192, 25, 25);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-height: 600px;
+    gap: 50px;
+    padding: 20px;
+}
+
+#navBar{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    word-spacing: 10px;
+    
+}
+
+header p {
+    font-size: 3rem;
+}
+
+img{
+    max-width: 5em;
+    max-height: 5em;
+}
+
